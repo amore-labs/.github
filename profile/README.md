@@ -6,4 +6,4 @@ The team consists of PhDs, postdocs, and research engineers, with Joaquin Vansch
 
 Want to know more? Learn all about our lab, our work, and opportunities to join us at [our lab website](https://openml-labs.github.io).
 
-![Picture with members of OpenML-Labs. Left to right, back row: Mert, Jos, Alexis, Andrei, Joaquin, Prabhant, Onur, Ceren. Front row: Jiarong, Fangqin, Pieter, Israel, Taniya](https://user-images.githubusercontent.com/15890747/236643724-8bc8da02-d566-4436-ac7f-7525b41c722a.jpg)
+![Picture with members of OpenML-Labs. Left to right, back row: Mert, Jos, Alexis, Andrei, Joaquin, Prabhant, Onur, Ceren. Front row: Jiarong, Fangqin, Pieter, Israel, Taniya](https://openml-labs.github.io/website/images/group_image2.webp)
