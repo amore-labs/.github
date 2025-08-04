@@ -1,4 +1,4 @@
-# Artificial Minds through Open Research and Engineering (AMORE)
+# Advanced Models through Open Research and Engineering (AMORE)
 
 Hi, we are the [AMOR/e](https://amore-labs.github.io) lab at [Eindhoven University of Technology](https://www.tue.nl/en/)!
 
